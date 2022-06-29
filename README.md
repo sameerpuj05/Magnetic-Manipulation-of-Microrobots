@@ -12,3 +12,5 @@ coil to centre of the coil and the strategies employed to move the bot in that p
 are discussed. Using local field control strategy, multiple robot control is achieved, where two
 bots motion are controlled independently. Finally an attempt is made to re orient a part placed
 on the 2D grid, with the help of a microrobot.
+
+![](Setup_Image.jpeg)
